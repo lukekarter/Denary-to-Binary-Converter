@@ -1,3 +1,2 @@
-# denary to 8 bit unsigned binary converter
-denary to binary and vice versa   
-download converter.py and run it to use the converter or maybe github lets you do it in web idk and idc
+# Denary to 8 bit unsigned binary converter
+Small project using subprograms to convert Denary numbers from 0-255 to 8 bit binary.
